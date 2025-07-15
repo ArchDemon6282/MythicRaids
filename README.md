@@ -37,6 +37,7 @@
 | **Vault**      | Para recompensas com dinheiro in-game         | For in-game money rewards                       |
 | **Citizens**   | (Opcional) Ative raids através de NPCs        | (Optional) Trigger raids using NPCs             |
 | **BetonQuest** | (Opcional) Integração com sistema de quests   | (Optional) Integration with quest system        |
+| **BeautyQuests** | (Opcional) Integração com sistema de quests   | (Optional) Integration with quest system        |
 
 🔗 Links diretos:  
 - [MythicMobs](https://git.mythiccraft.io/mythiccraft/MythicMobs)  

@@ -17,10 +17,10 @@ Edite o `config.yml` para definir suas raids, mobs e recompensas.
 ## Requisitos
 
 - MythicMobs 5.0+
-https://git.mythiccraft.io/mythiccraft/MythicMobs
+- https://git.mythiccraft.io/mythiccraft/MythicMobs
 - Vault (para recompensas com dinheiro)
-https://github.com/MilkBowl/Vault
+- https://github.com/MilkBowl/Vault
 - Citizens (opcional, para ativar raids via NPC)
-https://github.com/CitizensDev/Citizens2/
+- https://github.com/CitizensDev/Citizens2/
 - BetonQuest (opcional, integração com quests)
-https://github.com/BetonQuest/BetonQuest
+- https://github.com/BetonQuest/BetonQuest

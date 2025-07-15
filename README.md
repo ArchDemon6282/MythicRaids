@@ -61,6 +61,6 @@ For questions, suggestions or bugs, open an [Issue](https://github.com/seurepo/M
 
 ---
 
-> Desenvolvido com 💀 por apaixonados por aventuras épicas.
+> Desenvolvido por pessoas sem 💀 por apaixonados por aventuras épicas.
 >  
-> Crafted with 💀 by RPG & raid lovers.
+> Crafted fearlessly by passionate adventurers and raid lovers.

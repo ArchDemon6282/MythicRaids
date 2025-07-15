@@ -1,0 +1,15 @@
+
+raids:
+  exemplo:
+    nome: "Invasão dos Orcs"
+    ondas:
+      - mobs: ["OrcGuerreiro", "OrcArqueiro"]
+        quantidade: 5
+        intervalo: 10
+      - mobs: ["OrcChefe"]
+        quantidade: 1
+        intervalo: 20
+    recompensa:
+      comandos:
+        - "eco give %player% 1000"
+      mensagem: "Você venceu a invasão!"

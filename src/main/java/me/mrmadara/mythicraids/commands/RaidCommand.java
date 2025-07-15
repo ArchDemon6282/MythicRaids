@@ -30,4 +30,4 @@ public class RaidCommand implements CommandExecutor {
         }
         return true;
     }
-},
+}

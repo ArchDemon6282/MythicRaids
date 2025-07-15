@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/pmx8YZz.png" alt="MythicRaids Logo" width="500"/>
 </p>
 
-Um plugin profissional de Raids com MythicMobs para Paper 1.21.1.
+Um plugin de Raids com MythicMobs para Paper 1.21.1.
 
 ## Comandos
 

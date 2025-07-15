@@ -3,6 +3,7 @@ name: MythicRaids
 version: 1.0
 main: me.mrmadara.mythicraids.MythicRaids
 api-version: 1.20
+depend: [Citizens, BetonQuest]
 commands:
   raid:
     description: Inicia uma raid.
